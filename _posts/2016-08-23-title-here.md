@@ -1,13 +1,13 @@
 ---
 description: This is a Post Test
-dateModified: '2016-08-23T15:50:04.765Z'
-datePublished: '2016-08-23T15:50:13.879Z'
+dateModified: '2016-08-23T15:50:18.861Z'
+datePublished: '2016-08-23T15:50:19.394Z'
 title: Title here
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-title-here.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
