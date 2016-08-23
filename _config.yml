@@ -1,4 +1,3 @@
-layout_spectrum: 0.11432010168209672
 typography_spectrum: 0.2712628738954663
 color:
   brandStrength: 0.767991412896663
@@ -11,4 +10,14 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
+layout_spectrum: 0.11432010168209672
+author:
+  name: Tim Casson
+  email: tim@thedancewemade.co.uk
+  url: youtube.com/thedancewemade
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/44069832-9192-4c4b-b695-76578a7e27f1.jpg
 name: The Dance WE Made
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a904bc-80f1-45ad-aeb7-bd1898646e1e.jpg
+title: Let's Make a Dance
